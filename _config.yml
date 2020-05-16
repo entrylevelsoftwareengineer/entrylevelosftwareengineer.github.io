@@ -1,5 +1,5 @@
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin : "air"
+minimal_mistakes_skin : "default"
 url : "https://entrylevelsoftwareengineer.github.io/"
 baseurl : ""
 locale : "en-US"
