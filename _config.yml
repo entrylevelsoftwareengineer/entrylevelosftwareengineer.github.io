@@ -1,1 +1,8 @@
-theme: jekyll-theme-slate
+remote_theme : mmistakes/minimal-mistakes
+url : "https://entrylevelsoftwareengineer.github.io/"
+baseurl : ""
+locale : "en-US"
+title : "Life of Entry Level Software Engineer"
+title_separator : "-"
+name : "ELSE"
+description : "Life of Entry Level Software Engineer. Started as an entry. Always as an etry."
